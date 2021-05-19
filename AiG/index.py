@@ -12,7 +12,7 @@ from flask import render_template, request
 app = Flask(__name__)
 
 def sql(date:str="sql0518.txt"):
-    with open("D:\\CCU\\codes\\Python\\NLP\\exam\\"+date, 'r', encoding="utf-16") as f:
+    with open(date, 'r', encoding="utf-16") as f:
         database = f.readlines()
     return [i[:-1].split(",") for i in database][1:] # 去掉標題列
 
