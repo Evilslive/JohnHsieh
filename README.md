@@ -2,10 +2,12 @@
 
 
 
-Google  
-實驗室  
-商品化[Google](https://cloud.google.com/natural-language/pricing?hl=zh-tw)  
+> Google  
+> 實驗室  
+> 商品化 [Google](https://cloud.google.com/natural-language/pricing?hl=zh-tw)  
 
-
+> Facebook  
+> 實驗室  
+> 商品  
 
 
