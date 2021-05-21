@@ -1,6 +1,8 @@
 # 自然語言處理
 
-
+> #### _**for SOTA**_
+> [Papper with Code](https://paperswithcode.com/sota) 蒐集趨勢研究與程式碼<br>
+> [SOTA Ai](https://www.stateoftheart.ai/) 組織著名任務、開放資料與模型
 
 > #### _**Google**_
 > [Research Publications](https://research.google/research-areas/)<br>&emsp;&emsp;各項領域的研究成果<br>
@@ -11,7 +13,12 @@
 > [Ai Blog](https://ai.googleblog.com/)<br>&emsp;&emsp;意圖將Ai科普化<br>
 
 > #### _**Facebook**_
-> 實驗室  
-> 商品  
+> [Research Publications](https://research.fb.com/publications/)<br>&emsp;&emsp;各項領域的研究成果<br>
+> [Natural Language](https://wit.ai/)<br>&emsp;&emsp;wit.ai提供APP教學, 也可透過http APi<br>
+> [for Developers](https://developers.facebook.com/?no_redirect=1)<br>&emsp;&emsp;開發人員專區<br>
+
+> #### _**中研院**_
+> [CKIP Lab](https://ckip.iis.sinica.edu.tw/resource)<br>&emsp;&emsp;traditional Chinese models & NLP tools !!
+
 
 
