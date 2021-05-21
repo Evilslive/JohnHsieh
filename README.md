@@ -1,14 +1,14 @@
-# 自然語言
-## Processing
+# _**N**atural **L**anguage **P**rocessing_
 
-## Understand
+## Understanding
 
 ## Generation
 
-> #### _**for SOTA**_
+## **SOTA**
 > [Papper with Code](https://paperswithcode.com/sota) 蒐集趨勢研究與程式碼<br>
 > [SOTA Ai](https://www.stateoftheart.ai/) 組織著名任務、開放資料與模型
 
+## 巨人的肩膀
 > #### _**Google**_
 > [Research Publications](https://research.google/research-areas/)<br>&emsp;&emsp;各項領域的研究成果<br>
 > [Natural Language](https://cloud.google.com/natural-language?hl=zh-tw)<br>
