@@ -4,7 +4,7 @@
 
 <br>
 ## Generation
-
+[AiG](https://autoig.azurewebsites.net)
 <br>
 ## **SOTA**
 > [Papper with Code](https://paperswithcode.com/sota) 蒐集趨勢研究與程式碼<br>
