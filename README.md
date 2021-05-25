@@ -1,5 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="beaker.ico">
-
 # _**N**atural **L**anguage **P**rocessing_
 <br>
 ## Understanding
