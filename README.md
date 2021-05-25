@@ -1,4 +1,4 @@
-# _**N**atural **L**anguage **P**rocessing_
+# _Natural Language Processing_
 <br>
 ## Understanding
 
