@@ -25,6 +25,12 @@
 > [Natural Language](https://wit.ai/)<br>&emsp;&emsp;wit.ai提供APP教學, 也可透過http APi<br>
 > [for Developers](https://developers.facebook.com/?no_redirect=1)<br>&emsp;&emsp;開發人員專區<br>
 
+> #### _**Microsoft**_
+> 
+
+> #### _**IBM**_
+> 
+
 > #### _**中研院**_
 > [CKIP Lab](https://ckip.iis.sinica.edu.tw/resource)<br>&emsp;&emsp;Traditional Chinese models & NLP tools !!
 
