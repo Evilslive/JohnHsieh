@@ -1,4 +1,5 @@
-<link rel='mask-icon' href='beaker.svg' color='#ff0000'>
+<link rel="icon" href="/beaker.svg" type="image/svg">
+<link rel="shortcut" href="/beaker.ico" type="image/x-icon">
 
 # _**N**atural **L**anguage **P**rocessing_
 <br>
