@@ -1,3 +1,5 @@
+<link rel='mask-icon' href='beaker.svg' color='#ff0000'>
+
 # _**N**atural **L**anguage **P**rocessing_
 <br>
 ## Understanding
