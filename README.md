@@ -1,4 +1,5 @@
 # _Natural Language Processing_
+期待看到可以持續增加token與合併簡化token的模型 (Piaget: assimilation & accommodation)
 <br>
 ## Understanding
 
