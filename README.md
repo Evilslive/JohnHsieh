@@ -36,7 +36,7 @@
 > [Papper with Code](https://paperswithcode.com/sota) 蒐集趨勢研究與程式碼<br>&emsp;&emsp;巧婦難為無米之炊 [資料庫](https://paperswithcode.com/datasets)<br>
 > [SOTA Ai](https://www.stateoftheart.ai/) 組織重點任務、開放資料與模型
 
-<br>
+
 ### 巨人的肩膀
 
 ***Google***
