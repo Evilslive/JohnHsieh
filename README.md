@@ -26,16 +26,21 @@
 
 
 ---
-### Understanding
+### 作用於NLP的偉大發明
 
-
-### Generation
+1. ***gradient descent*** (Cauchy, 1847). &emsp; 梯度下降
+2. ***cloze procedure*** (Taylor, 1953). &emsp; Masked Language Model的先驅
+4. ***back-propagation*** (Rumelhart et al., 1986). &emsp; 後向傳遞
+5. ***word embedding**** (Mikolov, 2013). &emsp; Word2Vec 詞嵌入
+6. ***BERT*** (Google, 2018). &emsp; MLM模型的實現
+7. ***mT5*** (Google, 2020). &emsp; 跨語言模型(這個縮寫跟某個金融領域的產品撞名, 你看命名多重要 !)
 
 
 ### **for SOTA**
-> [Papper with Code](https://paperswithcode.com/sota) 蒐集趨勢研究與程式碼<br>&emsp;&emsp;巧婦難為無米之炊 [資料庫](https://paperswithcode.com/datasets)<br>
-> [SOTA Ai](https://www.stateoftheart.ai/) 組織重點任務、開放資料與模型
 
++ [Papper with Code](https://paperswithcode.com/sota) 蒐集趨勢研究與程式碼
++ [SOTA Ai](https://www.stateoftheart.ai/) 組織重點任務、開放資料與模型
++ [spaCy](https://spacy.io/) 先別說NLTK了, 你有沒有聽過spaCy ? 滿足客製化需求的NLP套件
 
 ### 巨人的肩膀
 
