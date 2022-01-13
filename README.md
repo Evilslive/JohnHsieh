@@ -28,12 +28,12 @@
 ---
 ### 作用於NLP的偉大發明
 
-1. ***gradient descent*** (Cauchy, 1847). &emsp; 梯度下降
-2. ***cloze procedure*** (Taylor, 1953). &emsp; Masked Language Model的先驅
-4. ***back-propagation*** (Rumelhart et al., 1986). &emsp; 後向傳遞
-5. ***word embedding*** (Mikolov, 2013). &emsp; Word2Vec 詞嵌入
-6. ***BERT*** (Google, 2018). &emsp; MLM模型的實現
-7. ***mT5*** (Google, 2020). &emsp; 跨語言模型(這個縮寫跟某個金融領域的產品撞名, 你看命名多重要 !)
++ *1847* &emsp; Cauchy &emsp; **gradient descent**: 梯度下降
++ *1953* &emsp; Taylor &emsp; **cloze procedure**: Masked Language Model的先驅
++ *1986* &emsp; Rumelhart et al. &emsp; **back-propagation**: 後向傳遞
++ *2013* &emsp; Mikolov &emsp; **word embedding**: Word2Vec 詞嵌入
++ *2018* &emsp; Google &emsp; **BERT**: MLM模型的實現
++ *2020* &emsp; Google &emsp; **mT5**: 跨語言模型(這個縮寫跟某個金融領域的產品撞名, 你看命名多重要 !)
 
 
 ### **for SOTA**
