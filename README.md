@@ -31,7 +31,7 @@
 1. ***gradient descent*** (Cauchy, 1847). &emsp; 梯度下降
 2. ***cloze procedure*** (Taylor, 1953). &emsp; Masked Language Model的先驅
 4. ***back-propagation*** (Rumelhart et al., 1986). &emsp; 後向傳遞
-5. ***word embedding**** (Mikolov, 2013). &emsp; Word2Vec 詞嵌入
+5. ***word embedding*** (Mikolov, 2013). &emsp; Word2Vec 詞嵌入
 6. ***BERT*** (Google, 2018). &emsp; MLM模型的實現
 7. ***mT5*** (Google, 2020). &emsp; 跨語言模型(這個縮寫跟某個金融領域的產品撞名, 你看命名多重要 !)
 
