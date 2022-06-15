@@ -49,12 +49,13 @@ model('下雨天', output_hidden_states=True, output_attentions=True)
 * `logits`: 透過執行分類任務模型取得, 各類的分類可能邏輯值
 * `loss`: 透過執行分類任務模型取得
 
-> 四大下游任務
-
-* `TFBertModel`
-* `TFBertForTokenClassification`
-* `TFBertForSequenceClassification`
-* `TFBertForQuestionAnswering`
+> 下游任務
+* `TFBertForMaskedLM` 填空任務, 輸入時添加 **[MASK]**, 預測所應該替換的字詞
+* `TFBertForNextSentencePrediction` 對句關係, 判斷第一句話後接續第二句話的可能性(logits)
+* `TFBertForSequenceClassification` 句子分類, 判斷輸入句的標籤
+* `TFBertForMultipleChoice` 問答分類, 輸入問題與回答, 判斷問題與答案之間的配對關係
+* `TFBertForTokenClassification` 標記任務, NER
+* `TFBertForQuestionAnswering` 回答問題, 輸入文本, 根據問題找出答案
 
 
 
