@@ -34,9 +34,10 @@ tokenizer('今天天氣真好', return_tensor='tf')
 
 
 
-> 模型選擇
+> 模型啟用
 
 ```python
 model = TFBertModel.from_pretrained(MODEL_PATH)
 ```
 
+> 四大下游任務
