@@ -39,7 +39,7 @@ chinese模型只有一種, 12*12*768
 
 ```python
 model = TFBertModel.from_pretrained(MODEL_PATH)
-model('今天天氣真的很好', output_hidden_states=True, output_attentions=True)
+model('下雨天', output_hidden_states=True, output_attentions=True)
 ```
 模型輸出預設以numpy()輸出
 * `last_hidden_state`: 預設輸出, 隱藏層的最後一層
