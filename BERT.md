@@ -31,6 +31,7 @@ tokenizer('今天天氣真好', return_tensor='tf')
 
 > 預設參數
 
+chinese模型只有一種, 12*12*768
 
 
 
@@ -38,6 +39,22 @@ tokenizer('今天天氣真好', return_tensor='tf')
 
 ```python
 model = TFBertModel.from_pretrained(MODEL_PATH)
+model('今天天氣真的很好', output_hidden_states=True, output_attentions=True)
 ```
+模型輸出預設以numpy()輸出
+* `last_hidden_state`: 預設輸出, 隱藏層的最後一層
+* `pooler_output`: 預設輸出, 平均句向量 (同過attention後的CLS ?)
+* `hidden_states`: 透過output_hidde_states輸出, 有0-12共13層 (0可能是初始隨機層 ?), 每層都會包在list內,跟輸入字數有關 (13 x 1 x input_length)
+* `attentions`: 透過output_attentions輸出, 12個頭 x 12層, 共144個, 包兩層:第一層tuple、第二層list (12 x 1 x 12), 與輸入長度無關
+* `logits`: 透過執行分類任務模型取得, 各類的分類可能邏輯值
+* `loss`: 透過執行分類任務模型取得
 
 > 四大下游任務
+
+* `TFBertModel`
+* `TFBertForTokenClassification`
+* `TFBertForSequenceClassification`
+* `TFBertForQuestionAnswering`
+
+
+
