@@ -1,9 +1,9 @@
 
 ## 開啟 BERT 的正確方法
 
-### transformers
+### transformers: extract dims based on tensorflow
 
-> extract dims based on tensorflow
+> 代幣化
 
 ```python
 from transformers import BertTokenizer, TFBertModel
