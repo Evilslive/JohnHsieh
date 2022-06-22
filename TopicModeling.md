@@ -5,6 +5,16 @@
 
 ### , LIA
 
+
+```mermaid
+erDiagram
+CAR {
+        string registrationNumber
+        string make
+        string model
+    }
+```
+
 ### Latent Semantic Analysis, LSA
 潛在語意分析
 ```python
