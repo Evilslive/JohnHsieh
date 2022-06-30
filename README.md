@@ -58,6 +58,9 @@
 > [for Developers](https://developers.facebook.com/?no_redirect=1)<br>&emsp;&emsp;開發人員專區<br>
 > [Meta Ai](https://ai.facebook.com/)<br>臉書的人工智慧實驗室
 
+***Open Ai***
+> [AP](https://openai.com/) Musk創辦, 以 GPT-3, DALL.E 2 知名 (雖然open 但卻是很慢很慢的 開放試用... )
+
 ***Microsoft***
 > 
 
