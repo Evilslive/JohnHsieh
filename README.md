@@ -56,6 +56,7 @@
 > [Research Publications](https://research.fb.com/publications/)<br>&emsp;&emsp;各項領域的研究成果<br>
 > [Natural Language](https://wit.ai/)<br>&emsp;&emsp;wit.ai提供APP教學, 也可透過http APi<br>
 > [for Developers](https://developers.facebook.com/?no_redirect=1)<br>&emsp;&emsp;開發人員專區<br>
+> [Meta Ai](https://ai.facebook.com/)<br>臉書的人工智慧實驗室
 
 ***Microsoft***
 > 
