@@ -70,6 +70,9 @@
 ***nViDiA***
 > [Blog](https://developer.nvidia.com/blog/)
 
+***Stanford University***
+> [Ai Index](https://aiindex.stanford.edu/)
+
 ***中研院***
 > [CKIP Lab](https://ckip.iis.sinica.edu.tw/resource)<br>&emsp;&emsp;Traditional Chinese models & NLP tools !!
 
